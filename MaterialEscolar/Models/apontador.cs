@@ -12,7 +12,7 @@ namespace Models
     {
         private double tamanho;
         private string cor;
-        private string material;
+        private string material-
         private double dureza;
 
 
